@@ -1,0 +1,529 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sleeping sicknes the distemper of the times: as it was discovered in its curse and cure. In a sermon preached before the Right Honourable the House of Peeres in the Abby-Church at Westminster upon the 27th of January, the day appointed for their solemne and publicke humiliation. / By William Jenkyn Minister of Gods Word at Christ-Church London.</title>
+            <author>Jenkyn, William, 1613-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87566</idno>
+            <idno type="STC">Wing J654</idno>
+            <idno type="STC">Thomason E372_10</idno>
+            <idno type="STC">ESTC R201315</idno>
+            <idno type="EEBO-CITATION">99861839</idno>
+            <idno type="PROQUEST">99861839</idno>
+            <idno type="VID">113984</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113984)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E372[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sleeping sicknes the distemper of the times: as it was discovered in its curse and cure. In a sermon preached before the Right Honourable the House of Peeres in the Abby-Church at Westminster upon the 27th of January, the day appointed for their solemne and publicke humiliation. / By William Jenkyn Minister of Gods Word at Christ-Church London.</title>
+                  <author>Jenkyn, William, 1613-1685.</author>
+               </titleStmt>
+               <extent>[8], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Wilson, for Christopher Meredith at the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah XXIX, 10 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113984:1" rendition="simple:additions"/>
+            <p>A SLEEPING SICKNES the diſtemper OF THE TIMES: As it was diſcovered in its Curſe and Cure.</p>
+            <p>In a Sermon Preached before the Right Honourable the Houſe of Peeres in the Abby-Church at <hi>Weſtminſter</hi> upon the 27<hi rend="sup">th</hi> of <hi>January,</hi> the day appointed for their So<g ref="char:EOLhyphen"/>lemne and publicke humiliation.</p>
+            <p>By WILLIAM JENKYN Miniſter of Gods Word at <hi>Chriſt-Church London.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Rom. 13.11.</hi>
+               </bibl>
+               <p>And that knowing the time, that now it is high time to awake out of ſleepe: for now is our ſalvation nearer then when we beleeved.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Theſ. 5.6.</hi>
+               </bibl>
+               <p>Therefore let us not ſleepe, as doe others: but let us watch and be ſober.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Wilſon,</hi> for <hi>Chriſtopher Meredith</hi> at the <hi>Crane</hi> in <hi>Pauls</hi> Church-yard.</p>
+            <p>1647.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:113984:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Mercurij</hi> 27. <hi>Januarij.</hi> 1646.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Lords in Parliament aſſembled, That Mr. <hi>Jenkyn,</hi> is hereby thanked for his great paines taken in his Sermon Preached before the Lords of Parliament this day in the <hi>Abby-Curch Weſtminſter,</hi> it being the day of the publike Faſt: And he is hereby deſired to Print and publiſh his ſaid Sermon. And that none doe preſume to Print the ſaid Sermon or any will thereof, without Authority under his owne hand.</p>
+            <closer>
+               <signed>Jo. Brown Cler. Parl.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>I doe appoint <hi>Chriſtopher Meredith</hi> to Print my Sermon.</p>
+            <closer>
+               <signed>William Jenkyn.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113984:2"/>
+            <head>TO THE RIGHT Honourable the Houſe of Peeres Aſſembled in <hi>PARLIAMENT.</hi>
+            </head>
+            <opener>
+               <salute>MY LORDS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Ow great a Remora the <hi>ſeeking our ſelves</hi> is to the ſetting up the Temple, your Lordſhips heard when laſt you commanded my ſervice in preaching before you; another enemy I here preſente to your Lordſhips no leſſe deſtructive to re<g ref="char:EOLhyphen"/>formation then that, it is <hi>the ſpirit of ſlumber.</hi> The for<g ref="char:EOLhyphen"/>mer was <hi>a ſinfull working,</hi> this <hi>latter a ſinfull reſting;</hi> If both theſe have as deeply ſeiz'd upon our work-men as they, are directly oppoſite to our worke; my excuſe is at hand for my endeavour in both Sermons more to quicken then to quiet you.</p>
+            <p>The matter of my Epiſtle to your Lordſhips, now I print, ſhall be the concluſion of my Sermon, when I preach't I ſhall preach that firſt to your eye which came laſt to your eare, and the rather, for that the concluſion of
+<pb facs="tcp:113984:3"/>my Sermon, had ſo much of an Epiſtle to my hand as that it concerned onely your Lorſhips.</p>
+            <p>My Lords, I beſeech you to ſhake off this ſpirit of ſlumber.</p>
+            <list>
+               <item>1. <hi>As it is hurtfull to your owne ſoules.</hi>
+               </item>
+               <item>2. <hi>As it is hurtfull to the kingdome.</hi>
+               </item>
+            </list>
+            <p>For the former, labour for the quickning power of the ſpirit of Chriſt to awaken you that ſleep,<note place="margin">Eph. 5.14.</note> and to wake you ſtand up from the dead; all riſing to the hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pina<g ref="char:EOLhyphen"/>cle of honour, without this is but falling. The ſecond death will not ſpare the nobleſt of you that have not a part in the firſt reſurrection Entomb not your noble ſpirits in the ſepulcher, of ſin and rottenneſſe. Peerage may come by the firſt, Grace onely by the ſecond birth. Nobles are borne without ſpirituall life, and grace as well as the meaneſt, My Lords, I beſeech you remem<g ref="char:EOLhyphen"/>ber, that hee that is but a meere man, or a meere Noble<g ref="char:EOLhyphen"/>man, is a miſerable man; and better you had never been either of them, then not to be more then either. The reaſon why you complaine not ſo much of your miſery by nature, and of your Chriſt-les condition as others doe is not becauſe you are leſſe miſerable or leſſe without Chriſt then others are, but becauſe you ſee it not ſo much as o<g ref="char:EOLhyphen"/>thers do; nobility is no exception from thoſe general rules, <hi>without holineſſe no man ſhall ſee God,</hi>
+               <note place="margin">Heb. 12.14.</note> 
+               <hi>and except a man be borne againe he ſhall not enter into the kingdome of God.</hi>
+               <note place="margin">Ioh. 3.9.</note> My Lords, the ſepulcher and the ſcripture know no difference twixt robes and rags, peers and peſants. If poore men bee holy for themſelves and you too, <hi>they ſhall goe to heaven for themſelves and you too:</hi> what thinke you of your ſelves, when you heare that men of low condition weep for and complaine of ſinne, ſtrive, and thirſt, and wreſtle for Chriſt, and you all this while remaine hard and ſecure, and regardleſſe of Chriſt
+<pb facs="tcp:113984:3"/>and your own ſoules? oh that you would inſteed of be<g ref="char:EOLhyphen"/>leiving that you are too good for theſe things,<note place="margin">1. Cor. 1.26.</note> feare leſt theſe things are too good for you; <hi>not many noble,</hi> is a dreadfull paſſage. And that <hi>none of the Princes of this world knew the wiſdome of God.</hi>
+               <note place="margin">1. Cor. 2.8.</note> The Lords ſpirituall (ſo call'd) grew too temporall, but the Lords temporall cannot bee too ſpirituall; temporall pragmaticallneſſe ruind them, ſpirituall practiſes muſt uphold you; the power of Godlineſſe is the onely means to ſave your ſoules and the beſt to ſilence your foes.</p>
+            <p>Shake off this ſpirit of ſlumber as hurtfull to the kingdome, and that in two reſpects, of
+<list>
+                  <item>1. <hi>Inſenſibleneſſe.</hi>
+                  </item>
+                  <item>2. <hi>
+                        <g ref="char:V">Ʋ</g>nactiveneſſe.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. Bee ſenſible that the Church is wounded by the ſoule-ſtroying opinions of Antinomians, Armini<g ref="char:EOLhyphen"/>ans, Anabaptiſts, Seekers Anti-ſcripturiſts, An<g ref="char:EOLhyphen"/>titrinitairans. &amp;c. All which with many more have been more propagated theſe foure yeares of Church A, narchie then in fourſcore of Church tyranny.</p>
+            <p>Bee ſenſible that the miniſteriall function is by ſome denyed, by others inuaded, by corner preachers, a company who divide their houre between blaſphemy and nonſenſe.</p>
+            <p>Bee ſenſible that the government which you have ſet up among us is ſo imperfect, and diſcountenanced (I tremble to ſay by whom) that it is rather a ſcorne then a curb to men diſaffected to holineſſe.</p>
+            <p>Bee ſenſible that our ſacred Covenant is common<g ref="char:EOLhyphen"/>ly either refuſed, or abuſed; and lookt upon by many onely as a <hi>Politique Stratagem</hi> to bee uſ'd while our miſeries laſted, The Lord who was the witneſſe of
+<pb facs="tcp:113984:4"/>our taking it, will ſhortly bee our Judge for our break<g ref="char:EOLhyphen"/>ing it. If wee will keep our covenant onely in our affliction; wee muſt looke againe for affliction to make <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> keep our covenant.</p>
+            <p>Bee ſenſible of the wants and poverties of learned and faithfull Maniſters, let it never be ſaid that they who under Biſhops were overcome by batteries ſhould under the Parliament bee overcome by ſtarving.</p>
+            <p>Be ſenſible of the Cries of the Fatherleſſe, the Wi<g ref="char:EOLhyphen"/>dowes, the oppreſſed, the delayed, the maimed, the wounded, whoſe ſervices have been your ſafties, and their bloods your Honours,<note place="margin">2. Sam. 23.17.</note> your Eſtates, your ornaments, your lives.</p>
+            <p>Be ſenſible of the taxes, and preſſing burthens of the poore waſted Kingdome; The poore Countryman complaining that he is a long time ſweating &amp; ſmar<g ref="char:EOLhyphen"/>ting to gather that which a little breath ſhall beſtow by thouſands upon thoſe that are as farre from want as worke, and ſome ſay, as farre from worth at either.</p>
+            <p>Be ſenſible of this famous Cities love, care, coſt, blood; Let her not ſuffer by protections or any other needleſſe burthens, by her loſſe (or yours ſhall I ſay) of her faithfull Miniſters; Your Lord-ſhips noble re<g ref="char:EOLhyphen"/>ſentment of her religious and loyall Petitions, hath ſeveral times refreſhed her, goe on in anſwering them as you doe:</p>
+            <p n="2">
+               <hi>2.</hi> Caſt off the ſpirit of ſleep in reſpect of unactive<g ref="char:EOLhyphen"/>neſſe. Be active in reforming in the fore-mentioned particulars: ſleep not away your ſummer ſeaſons. The Lord grant too much of it be not ſpent already. Let not thoſe richly laden opportunities which have beene ſafely brought through a raging Sea by vigilancy, be
+<pb facs="tcp:113984:4"/>caſt away in the haven by ſloath. Let it never be ſaid that all are active but thoſe that ſhould be ſo. The a<g ref="char:EOLhyphen"/>ctiveneſſe of particular men for themſelves is rather noted then liked; God hath beene active for you and us; he hath given us more then ever we lookt for: we him, leſſe then, nay contrary to what wee have cove<g ref="char:EOLhyphen"/>nanted. What would become of your Honours if God lay you aſide like broken veſſels, and ſay I take no delight in uſing ſuch for my ſervice, or ſhould Chriſt ſay to you concerning his cauſe, as once he did to his Di<g ref="char:EOLhyphen"/>ſciples concerning himſelfe.<note place="margin">Ma. 26.45.</note> 
+               <hi>Sleep on now and take your reſt, behold the houre is at hand, and my cauſe is betrayed into the hands of ſinners;</hi> The pre<g ref="char:EOLhyphen"/>vention of which as it ſhould bee your Lordſhips care, ſo it ſhall bee the prayer, My Lords, of</p>
+            <closer>
+               <signed>Your faithfull Servant and ſoule-remembrancer. WIL. IENKYN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:113984:5"/>
+            <pb n="1" facs="tcp:113984:5"/>
+            <head>A SERMON PREACHED to the Right Honourable Houſe of Lords, at the late faſt <hi>January</hi> 27<hi rend="sup">th</hi> 1646.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JSAIAH 29.10.</hi>
+                  </bibl>
+                  <p>The Lord hath powred out upon you the ſpirit of deepe ſleepe.</p>
+               </q>
+            </epigraph>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Introduction </seg>
+               </label> 
+               <seg rend="decorInit">T</seg>His Prophet <hi>Iſaiah</hi> is famous both for <hi>promiſes</hi> and <hi>threatnings:</hi> for pro<g ref="char:EOLhyphen"/>miſing <hi>Comforts;</hi> for threatning <hi>judgements.</hi> 1. When he promiſeth <hi>mercies</hi> hee ordinarily intermixeth <hi>ſpirituall</hi> with <hi>temporall mercies.</hi>
+            </p>
+            <p n="2">2. When he denounceth <hi>judge<g ref="char:EOLhyphen"/>ments</hi> he often threatens <hi>ſpirituall</hi> as well as <hi>temporall.</hi> For the latter, <hi>viz. Judgements denounced,</hi> In this chap<g ref="char:EOLhyphen"/>ter he threatens temporall Judgements to verſe the 7. and ſpirituall to the 15.</p>
+            <p n="1">1. For temporall judgements; 1. He tells us againſt
+<pb n="2" facs="tcp:113984:6"/>whom he denounceth them:<note place="margin">
+                  <hi>2 Sam. 23.20.</hi> Benaiah is ſaid to ſlay two Ly<g ref="char:EOLhyphen"/>on-like men for ſtrength, the word being there alſo Ariel.</note> againſt <hi>Jeruſalem</hi> called, 1. <hi>Ariel,</hi> v. 1. 2. <hi>The Citie where David dwelt. Ariel</hi> ſig<g ref="char:EOLhyphen"/>nifieth <hi>the Lyon of God; Jeruſalem</hi> being ſo called either 1. becauſe of its potencie and ſtrength; as the Lyon is the <hi>prince of beaſts,</hi> ſo was <hi>Jeruſalem of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> and <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dah</hi> in which Tribe <hi>Jeruſalem</hi> was, is <hi>Gen.</hi> 49.9. called a <hi>Lyon</hi> and a <hi>Lyons whelpe,</hi> and to ſet out the greatneſſe of this power 'tis alſo called here a <hi>Lyon of God,</hi> an uſual expreſſion to denote the excellencie and greatneſſe of a thing. 2. <hi>Jeruſalem</hi> is by ſome thought to bee called the <hi>Lyon of God</hi> in regard of the Temple and Altar therein, which hath the ſame name, <hi>Ezek.</hi> 43.15, 16. becauſe they look't upon their Temple and Altar as <hi>their ſtrength,</hi> and truſted more in that then in all their other ſupplies, thinking that ſo long as they had them, they had God among them; or in regard of the abun<g ref="char:EOLhyphen"/>dance of ſacrifices which their Altar devoured even as the Lyon devoureth beaſts. 3. <hi>Jeruſalem</hi> is thought by o<g ref="char:EOLhyphen"/>thers to be termed here by the Prophet the <hi>Lyon of God,</hi> in regard of its fierceneſſe and cruelty againſt the ſer<g ref="char:EOLhyphen"/>vants and meſſengers of God as the Lyon devoureth the Lamb according to that of <hi>Jer.</hi> 12.7. <hi>I have forſa<g ref="char:EOLhyphen"/>ken my houſe, &amp;c. My heritage is under the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the forreſt, it cryeth againſt mee;</hi> 2. <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the City where David dwelt;</hi> where by God would bla<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and ſlight the vaine opinion of their <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and priviledges, becauſe <hi>Davi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p n="2">2.<milestone type="tcpmilestone" unit="unspecified" n="2"/> In this denouncing of temporall judgements, he oppoſeth their ſecurity, whereby they promiſed to themſelves, in regard of the delay of vengeance and their daily ſacrifices, ſafety and peace, and ye <hi>year to year let them kill ſacrifices.</hi> verſe 1.</p>
+            <p n="3">3.<milestone type="tcpmilestone" unit="unspecified" n="3"/> He foretelleth the judgement that ſhould befall
+<pb n="3" facs="tcp:113984:6"/>them; <hi>I will diſtreſſe Ariel, I will campe againſt thee round about, and lay ſiege againſt thee,</hi> verſe 2, 3. And this the Prophet further amplifieth, 1 from the Low<g ref="char:EOLhyphen"/>neſſe of their condition, that extreame contemp<g ref="char:EOLhyphen"/>tibleneſſe that hereafter they ſhould lie under. They ſhall <hi>bee brought downe, and ſpeake out of the ground, and out of the duſt, as one that hath a familiar ſpi<g ref="char:EOLhyphen"/>rit:</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> q.d. though now thy voyce is proud and thunde<g ref="char:EOLhyphen"/>ring, though now thou lifteſt up thy ſelfe againſt my threatning Prophets, yet when my judgements ſhall befall thee, thou ſhalt rather whiſper then ſpeake, thou ſhalt be ſo fearefull, and poore; even as the fami<g ref="char:EOLhyphen"/>liar ſpirits ſend forth a trembling, ſad, ſoft, whiſpering voyce out of the earth to thoſe that enquire of them, verſe 4.</p>
+            <p n="2">2.<note place="margin">Vide Calvin in Loc.</note> The Prophet amplifieth this judgement that ſhould befall them from the <hi>in efficacie of all thoſe helps</hi> and helpers that ſhould come to them for their aſſi<g ref="char:EOLhyphen"/>ſtance; all the multitude of ſtrangers that ſhould come to help them, againſt God ſhould <hi>be as the chaffe and duſt:</hi> God would as eaſily puffe them away, and ruine them, with his ſtorme and tempeſt and thunder. verſe 5, 6.</p>
+            <p>The ſpirituall judgement that ſhould lye upon them all this while their Calamity was in 'its nea<g ref="char:EOLhyphen"/>reſt approaches,<milestone type="tcpmilestone" unit="unspecified" n="2"/> was <hi>an inſenſible regardleſſe, ſecure temper of ſoule,</hi> takeing no heed, giving no regard to all theſe diſmall denuntiacions.</p>
+            <p>Which wretched diſtemper under their approach<g ref="char:EOLhyphen"/>ing Calamities is ſet out under a 3-fold reſemblance.</p>
+            <p n="1">1. Of a ſweet and delightfull dreame,<note place="margin">Vide Calvin.</note> whereby de<g ref="char:EOLhyphen"/>luded Perſons pleaſe themſelves with thoughts of food and fullneſſe, though hungry and empty. <hi>v.</hi> 8.</p>
+            <pb n="4" facs="tcp:113984:7"/>
+            <p n="2">2. <hi>of a drunken ſtaggering</hi> Perſon, that regardes not what the dangers are that hang over his head; A ſpi<g ref="char:EOLhyphen"/>ritual drunkeneſſe (worſe then that with wine) had in<g ref="char:EOLhyphen"/>vaded their hearts and heads, whereby Reaſon was ſo clog'd and dul'd, that nothing was perceived that was preached. <hi>v.</hi> 9.</p>
+            <p n="3">3. <hi>Of a deepe and dead ſleep,</hi> even the <hi>Spirit</hi> of it; whereby their ſenſes were (as it were) ſo ſtupified and benummed, that did the Prophets cry and call in their eares never ſo loud they would yet lye ſtill, and not ſtirr up themſelves to ſhun, or prevent the diſmall judgements that were ſeizing on them. <hi>The Lord hath poured out upon you the Spirit of a deep ſleep.</hi>
+            </p>
+            <p>In the proſecution of which words; All that I ſhall doe, ſhall be reduced to theſe two heads.</p>
+            <p n="1">1. Firſt to explaine the <hi>Text</hi> in the particular parts thereof.</p>
+            <p n="2">2. To gather and handle one particular obſerva<g ref="char:EOLhyphen"/>tion from the ſeverall parts thereof ſo explained.</p>
+            <p n="1">1. For the firſt; I ſhall open this Text in theſe <hi>four</hi> following <hi>Parts</hi> and <hi>Branches.</hi>
+            </p>
+            <p n="1">1. The kinde and nature of the judgement that had here befallen them; <hi>a deepe ſleep.</hi>
+            </p>
+            <p n="2">2. The meaſure and degree of it, which is ſet forth by a double expreſſion.</p>
+            <p n="1">1. The word <hi>Spirit.</hi>
+            </p>
+            <p n="2">2. The word <hi>powring.</hi>
+            </p>
+            <p n="3">3. <hi>The Object,</hi> or who they were upon whom this deep ſleep was powred. <hi>viz. The Iewes, you.</hi>
+            </p>
+            <p n="4">4. <hi>The puniſher,</hi> or the party inflicting this judge<g ref="char:EOLhyphen"/>ment, <hi>the Lord.</hi>
+            </p>
+            <p n="1">1. The kinde and ſort of the puniſhment, it was <hi>a deep ſleepe,</hi> In the Hebrew <hi>Tardema,</hi> a word that ſigni<g ref="char:EOLhyphen"/>fies
+<pb n="5" facs="tcp:113984:7"/>ſuch a ſleepe as doth ſo ſtupify and benum the ſen<g ref="char:EOLhyphen"/>ſes, as that the perſon on whom <hi>it ſeiſeth,</hi> can very hardly, by any meanes uſed, <hi>bee awaked. Somnus gravis &amp; profundior, ex quo difficulter quis excitatur.</hi> And this may appeare, both by the conſideration how the Scrip<g ref="char:EOLhyphen"/>ture uſeth it in other places, and alſo how it is rendred by Interpreters; <hi>Adam is ſaid</hi> to be in <hi>a deep ſleep. Gen.</hi> 2 21. In ſo deep a ſleepe, that <hi>a rib</hi> was taken out of him, and yet he perceiv'd it not. <hi>Saul was in a deep ſleep from the Lord,</hi> and notwithſtanding his ſpeare and his cruſe was taken from his bolſter, nay, notwithſtanding his mortall enemy (as he ſuppoſed him) was very neare him, yet he awaked not <hi>Siſera was ſo faſt a ſleepe. Judges.</hi> 4.21. <hi>that Jael notwithſtanding</hi> her approaches, her nayle, her hammer, and ſmiting did not awake him. <hi>Jonah was ſo deep a ſleep. Jonah.</hi> 1.6. that Ieopardy of life, by reaſon of the tempeſtuous raging of the Sea, did not at all affect him, nay, <hi>Pſal.</hi> 76.6. <hi>the deſtruction and the totall overthrow of the Chariots, and Horſmen are</hi> ſet forth by this expreſſion <hi>of deep ſleep.</hi> Now in all theſe places either the word <hi>Tardema</hi> here in the Text, or a word, purely of the ſame ſignification, and com<g ref="char:EOLhyphen"/>ming from the ſame root, is uſed, which roote is <hi>Radam</hi> Signifying to be overwhelmed with ſleep.</p>
+            <p>The Septuagint render this word ſeverall wayes. Sometimes by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a word that ſignifies ſuch an aſtoniſhment by reaſon of fear, as that a man is not himſelfe, or knoweth not what hee doth, ſome<g ref="char:EOLhyphen"/>times they render it, by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which ſignifies a mans going out of himſelfe. Somtimes they ren<g ref="char:EOLhyphen"/>der it, by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a word that the Apoſtle makes uſe of <hi>Rom.</hi> 11.8. where my text is alledged A word which doth notably ſet out the nature of <hi>this
+<pb n="6" facs="tcp:113984:8"/>deep ſleep;</hi> according to what-ever interpretation we conſider it <hi>Beza, Heſychyus, Tollet,</hi> derive this word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, uſed by the Apoſtle, from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and ſo it ſignifi<g ref="char:EOLhyphen"/>eth <hi>a deep mid-night ſleep,</hi>
+               <note place="margin">Pareus. Oſean<g ref="char:EOLhyphen"/>der.</note> others derive it from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifieth to <hi>prick or to wound;</hi> and ſo either this word imports ſuch <hi>a ſleep as out of which all</hi> the pinching and wounding, &amp; pricking cannot raiſe a man, or ſuch a <hi>ſleepe</hi> as whereby a man is ſo <hi>faſtened and nailed downe to his ſloth</hi> that there is no parting them;<note place="margin">Chriſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ther<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>last.</note> or ſuch a <hi>ſleep</hi> as whereby a perſon is as one that is ſo pained with his wounds that he regardeth nothing which is ſaid to him;<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Par.</note> 
+               <hi>tranſpunctae mentis alienatione demens.</hi> Which way ſoever wee underſtand (though I prefer that in<g ref="char:EOLhyphen"/>terpretation of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which imports <hi>ſuch a ſleep</hi> as whereby a man is ſo deeply ſeiz'd upon with it, as that no wounding or pricking awakens him) which way ſo<g ref="char:EOLhyphen"/>ever I ſay wee underſtand it, we muſt needs conceive it to bee an <hi>extreame deep ſleep;</hi> not bodily, but ſpirituall, not a binding of the animall Spirits and ſenſes, but a ſpirituall torpor and benummedneſſe of Soule under all the diſpenſations and dealings of God, whereby the ſoule is in ſuch a temperſtate and poſture, as the body in a dead and deep ſleepe liable to all enemies vnactive though there bee never ſuch crying to it for help, ſelf-ſoothing in the midſt of all dangers; Inſen<g ref="char:EOLhyphen"/>ſible of any ſtirrings, and unwilling to be awaked.</p>
+            <p n="2">2.<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>The degree or meaſure of this puniſhment, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſet downe in the Text in a double exproſſion.</hi>
+            </p>
+            <p n="1">1. <hi>The Spirit</hi> of ſleepe.</p>
+            <p n="2">2. <hi>The Spirit</hi> of ſleepe <hi>pow<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dont.</hi>
+            </p>
+            <p n="1">1. For the word <hi>Spirit,</hi> it very aptly and fully ſets out the vehemency and depth of this <hi>ſleepe,</hi>
+               <note place="margin">Num. 5.14. Zec. 12.10.</note> The vi<g ref="char:EOLhyphen"/>olent &amp; propens motions or addictedneſſe of p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſon
+<pb n="7" facs="tcp:113984:8"/>to a thing being ſet out in Scripture by this word ſpirit.<note place="margin">Eſ. 19.14. Hoſ. 4.12.</note>
+            </p>
+            <p n="1">1. Becauſe theſe <hi>eager inclinations</hi> are furthered by the ſpirit, either good, if they be good inclinations, or a bad ſpirit if they be bad inclinations.<note place="margin">Propenſiones vitioſae a malo ſpiritu excitatae impetus ſatani<g ref="char:EOLhyphen"/>ci. <hi>River in Hoſ. 4.12.</hi>
+               </note>
+            </p>
+            <p n="2">
+               <hi>Becauſe theſe inclinations are ſeated in the ſpirit of a man,</hi> carrying the whole man according to its owne bent.</p>
+            <p n="3">3. Becauſe the <hi>ſpirit of a</hi> thing doth frequently be<g ref="char:EOLhyphen"/>token <hi>force, energie, power, effioacie; the ſpirit of any thing being the ſtrength of it and vigour.</hi> So the Scrip<g ref="char:EOLhyphen"/>ture expounds the ſpirit of <hi>Elijah</hi> by <hi>the power of</hi> Elijah;<note place="margin">Luke 1.17.</note> and ſo the <hi>ſpirit of ſleepe</hi> is the efficacie, and force, and ſtrength of ſleepe that had ſeized on them.</p>
+            <p n="2">2. To the making of this <hi>ſpirituall judgement</hi> more full, 'tis ſaid that this deepe ſleepe was <hi>powred out, &amp;c.</hi> In the Hebrew <hi>Naſak,</hi> a word that hath two ſignifica<g ref="char:EOLhyphen"/>tions according to the different nature of thoſe things (moiſt or dry) about which it is ſpoken; both very apt to ſet forth the degree of <hi>this ſleepe.</hi>
+            </p>
+            <p n="1">1. Being uſed concerning the pouring out of <hi>liquid and moiſt things,</hi> it ſignifieth <hi>effudit or perfudit;</hi> he hath ſo poured it out upon you, that it is run all over you; it being moſtly applyed by the Scripture to the <hi>pouring out</hi> of the <hi>drinke-offering</hi> upon <hi>the Sacrifice,</hi> which drencht it &amp; ran over it. So of the oyle,<note place="margin">Jer. 32.29.7.18.</note> that was poured out on <hi>Jacobs pillar:</hi> here therefore when 'tis ſaid (in this ſenſe) that a <hi>deep ſleepe is poured on them,</hi>
+               <note place="margin">Gen. 35.14.</note> the mea<g ref="char:EOLhyphen"/>ning is, they are ſoak'd in it, ſteept in it, drencht, drown'd in it. The 70. render it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="2">2. Being uſed concerning <hi>dry things,</hi> it ſignifieth to hide all over, to cover, even over head and eares, no part of the thing covered, being to be ſeene, and ſo
+<pb n="8" facs="tcp:113984:9"/>'tis applyed to the <hi>Covering of ſin</hi> that makes a man <hi>bleſ<g ref="char:EOLhyphen"/>ſed,</hi> Pſalm 32.1. none of his ſins being to be ſeene, here it being uſed, it imports ſuch <hi>a Covering</hi> with a <hi>deepe ſleepe</hi> as that no part is free, every part having this ſpi<g ref="char:EOLhyphen"/>rituall benummedneſſe ſeizing upon it; they were all over, <hi>all parts and degrees of men in the Kingdome un<g ref="char:EOLhyphen"/>der the power of this deep ſleep,</hi> head, ears, eyes, arms, legs, Rulers, Prophets, Prieſts, people, as afterwards God ſpeaks particularly and diſtributively.</p>
+            <p n="3">3.<milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>The object,</hi> or the perſons on whom this puniſh<g ref="char:EOLhyphen"/>ment was poured, expreſt here in the word, <hi>you;</hi> A word whereby is intimated both the generality of the judgment; upon the body and bulk of the Kingdome is this judgement inflicted: and their pertinacy and ſetledneſſe under it, that it was poured out upon <hi>them</hi> that were ſo often reproved, and ſtirred, and call'd up<g ref="char:EOLhyphen"/>on by the Prophets, to awake: nay a people that had judgment even at their doores, and ready to fall upon them; it being neare in point of <hi>execution,</hi> and farre off in point of their <hi>apprehenſion.</hi>
+            </p>
+            <p n="4">4. <hi>The Puniſher</hi> or the party inflicting: <hi>Jehovah the Lord:</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> He doth it in wrath and fury. God being here to be conſidered not as the <hi>Author</hi> but the <hi>
+                  <g ref="char:V">Ʋ</g>ltor,</hi> as the avenger, not the worker, not as <hi>effector</hi> but <hi>inflictor,</hi> not as the cauſer of it, but the puniſher with it; God not infecting any with this <hi>ſpirituall benummedneſſe,</hi> or infuſing it into any where it was not before: but puni<g ref="char:EOLhyphen"/>ſhing thoſe further with it who had it of themſelves.</p>
+            <p>For the further explication of this, note 3. things a<g ref="char:EOLhyphen"/>bout this ſpirituall diſtemper of a <hi>deep ſleepe.</hi>
+            </p>
+            <p n="1">1. <hi>Natural is propenſio,</hi> or <hi>inclinatio,</hi> a naturall deſire to be at reſt; a readineſs to wiſh and tend to our own peace and preſervation; and <hi>this inclinableneſſe to ſelfe-preſervation,</hi> is of God.</p>
+            <pb n="9" facs="tcp:113984:9"/>
+            <p n="2">2. <hi>Irregularitas;</hi> the diſtemperature of the ſoule in ſoothing it ſelfe with thoughts and apprehenſions of peace, in a courſe of ſin, againſt the threatnings and commands of God. <hi>A bleſſing ones ſelfe in heart,</hi>
+               <note place="margin">Deut. 29.19.</note> 
+               <hi>ſaying I ſhall have peace, though I walk in the imagination of my heart;</hi> this is not of God, but from our own corruption.</p>
+            <p n="3">3. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> A <hi>juſt reward and recompence</hi> by way of puniſhing and avenging the corrupt and obſtinate in<g ref="char:EOLhyphen"/>clination of the ſoule in ſin notwithſtanding all the meanes of grace, with more <hi>benummedneſs and ſpiritu<g ref="char:EOLhyphen"/>all</hi> ſloth: and this God doth (I ſay) only as a Judge and an avenger, and that ſeverall wayes.</p>
+            <p n="1">1. <hi>By removing and denying the outward meanes of grace</hi> for contempt of them; which meanes were or<g ref="char:EOLhyphen"/>dained for the awakening of people out <hi>of the ſleepe of ſin;</hi> as Sermons, corrections, admonitions.</p>
+            <p n="2">2. <hi>Denying the inward operation of his ſpirit,</hi> where he gives the outward meanes of grace: reſtraining his efficacious exciting grace; and ſo God is <hi>removens pro hibens,</hi> denying that grace which he is not bound to give; <hi>which grace</hi> would have hindered them from <hi>this diſtemper.</hi>
+            </p>
+            <p n="3">3. <hi>By a judiciall tradition</hi> of theſe ſelfe-ſoothers up to that power and ſpirit, which ſhall more cloſe and claſpe up their ſoules in this ſpirituall diſtemper; and ſo God delivers people up <hi>to Satan and to their owne hearts</hi> when he ſees that people more obey them then him, liſtning to their <hi>allurements,</hi> more then to Gods <hi>incitements,</hi> when God ſaith judicially, let him <hi>that is filthy, be filthy ſtill;</hi> I deliver him up into the power <hi>both of Satan and his owne heart;</hi> thus 1. King, 22.22.23. <hi>The Lord ſent a lying ſpirit to perſwade Ahab.</hi> ſo Pſal. 81.11.12. <hi>I gave them up unto their owne hearts, and
+<pb n="10" facs="tcp:113984:10"/>they walked in their owne counſells.</hi>
+            </p>
+            <p n="4">4. <hi>By offering and laying ſuch occaſions before men, as God knowes they will abuſe to the ſoothing</hi> up themſelves againſt all his awakening adminiſtrations,<note place="margin">Vltrix miſeri<g ref="char:EOLhyphen"/>cordia.</note> as im<g ref="char:EOLhyphen"/>punity, long life, Friends, Honour, &amp;c. Which not ſanctified,<note place="margin">Blanda patrum ſegnes facit in<g ref="char:EOLhyphen"/>dulgentia natos</note> the corrupted ſtomack turns into poyſon a<g ref="char:EOLhyphen"/>gainſt it ſelfe; In which reſpect 'tis infinitely better that God ſhould correct us ſo, as to awaken us though with never ſo much ſeverity,<note place="margin">Satius eſt ut vim qualem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>un<g ref="char:EOLhyphen"/>que mihi infe<g ref="char:EOLhyphen"/>ras domine, qua<g ref="char:cmbAbbrStroke">̄</g> parcens mihi, me in meo tor<g ref="char:EOLhyphen"/>pore ſecurum derelinquere <hi>Aug.</hi>
+               </note> then by ſparing and proſpering us to let us ſleep in ſinne, ſo that wee awake not till it bee to late.</p>
+            <p>I now proceed to the ſecond thing I propounded to you; <hi>viz.</hi> to Collect and handle a practicall obſervation from the former Parts thus explained and it ſhall bee this</p>
+            <p>Obſ.<note place="margin">Obſ.</note> 
+               <hi>For a deep ſleep, in the ſpirit of it, to bee powred out upon a perſon, or people by God, is a very ſore judge<g ref="char:EOLhyphen"/>ment.</hi> 'Twas this that was the greateſt part <hi>of Ariels puniſhment. The ſoule</hi> of his judgement; not his being under this temporall calamity of a ſtrait ſiege and Cap<g ref="char:EOLhyphen"/>tivity, but in being <hi>a ſleep</hi> when that it came. And 'tis very obſervable that <hi>this is the judgement</hi> that all along in <hi>the new Teſtament is in</hi> a manner onely taken notice of; it being mention'd (by way of alledging that of Eſaiah. 6. and 9.) by all the foure <hi>Evangeliſts,</hi> as alſo by Luke. in the 28. Act. and <hi>Paul.</hi> Rom. 11.8.</p>
+            <p>Now for the proſecution of this obſervation, I ſhall ſhew but two things.</p>
+            <p n="1">1. Wherein it appears that this is ſuch a ſore and diſmall judgement.</p>
+            <p n="2">2. What uſe to make of it.</p>
+            <p>For the firſt; I ſhall ſhew you wherein the <hi>greatneſſe of the judgement</hi> appeareth in the <hi>foure parts of the Text</hi>
+               <pb n="11" facs="tcp:113984:10"/>before explained, and in the Text uſed by the ſpirit of God to expreſſe the diſmallneſſe of this judgement of <hi>a deep ſleep.</hi>
+            </p>
+            <p>The firſt whereof is the <hi>kinde</hi> of <hi>the judgement</hi> ſaid to bee <hi>a deep ſleep,</hi>
+               <note place="margin">The great<g ref="char:EOLhyphen"/>neſſe of this judgement of a deep ſleep pro<g ref="char:EOLhyphen"/>ved from the 4 particulars in the Text.</note> which in the very nature of it denot<g ref="char:EOLhyphen"/>eth five things, all which are very paenall, &amp; dreadfull.</p>
+            <p n="1">1. The firſt thing that a deep ſleep holdeth forth, <hi>is liableneſſe, and obnoxiouſneſſe to judgements,</hi> unar<g ref="char:EOLhyphen"/>medneſſe in the midſt of dangers; A man in <hi>a deep ſleep,</hi> is in no condition to hinder an invader,<note place="margin">1. From the kinde of the judgement, and ſo it denoteth 5. things, all ve<g ref="char:EOLhyphen"/>ry paenall.</note> hee lyes naked to the fury of every enemy, hee is not in a poſ<g ref="char:EOLhyphen"/>ture of makeing any reſiſtance; like a feild, without a fence, a City without a watch; like <hi>Samſon</hi> in the midſt of the <hi>Philiſtines</hi> without his locks; This ſpirituall ſleeper though judgements approach, approacheth not to his towre, he maketh <hi>not the name of the Lord his re<g ref="char:EOLhyphen"/>fuge;</hi> hee clozeth not himſelfe up in the wounds of Chriſt by faith, he labours not by repentance to expell thoſe enemies of his ſoule, his ſinnes, which will open the doore to every judgement, but ſecurely harbours them within; he labours not by prayer to ſeeke helpe from one that is able to keep him, he armes not him<g ref="char:EOLhyphen"/>ſelfe with preparedneſſe to meet his God; hee <hi>is ruin'd without reſiſtance;</hi> the fire of vengance devoureth him as ſtubble, he is <hi>one fitted for deſtruction, 'Tis a greater puniſhment to be without puniſhments, and yet to lye na<g ref="char:EOLhyphen"/>ked and liable to them, then to bee in the midſt of them, and yet to bee above them;</hi> A ſleeping ſinner ſpends all his time to fence his eſtate, his family, his name, his health; but his ſoule when death and judgement ap<g ref="char:EOLhyphen"/>proacheth, lyeth open and expoſed; hee takes much care to lock up his rubbiſh and lumber that are not worth the keeping or takeing away, but regards not to
+<pb n="12" facs="tcp:113984:11"/>preſerve his treaſure, his jewell, his ſoule, but throws it among his enemies.</p>
+            <p>The ſecond thing that this judgement of a deep ſleep holdes forth,<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>is ſelfe-ſoothing</hi> and <hi>flattery,</hi> ſecurity, ſelfe pleaſing, and this is the ground of the former, hee is dreaming of a Kingdome when <hi>Iaels naile</hi> is nearer his Temples then a Crowne; hoe <hi>(as Ariel in the con<g ref="char:EOLhyphen"/>text)</hi> fancies himſelfe at a richly furniſhed table, where are all manner of delicacies, but when he awakes ther's a ſtarved empty ſtomack;<note place="margin">Dut. 29.19.</note> 
+               <hi>This ſpirituall ſleeper,</hi> in the hearing the words of the curſe, <hi>bleſſeth himſelfe</hi> in his heart, and ſaith hee, ſhall have peace, hee goeth on in ſinne as if hell were a notion, judgment a fable, and as if the threats of the ſcripture were but ſome gaine<g ref="char:EOLhyphen"/>full inventions to uphold the Miniſters maintenance; If God give him abundance in this life, hee ſecretly ſmiles at the ſevereſt denunciations; and inwardly ap<g ref="char:EOLhyphen"/>plauds his own ſafety and integrity, <hi>as Ephraim. Hoſ.</hi> 12.8. Notwithſtanding all the Prophets could denounce,<note place="margin">Hoſ. 12.8.</note> 
+               <hi>ſaid, yet I am become rich, I have found mee out ſubſtance</hi> All flattered ones are in danger, but the ſelfe flattered are in the greateſt; when they ſhall <hi>cry peace, peace.</hi> 1. <hi>Theſ.</hi> 5.3.<note place="margin">1. Th. 5.3.</note> Then ſuddaine deſtruction ſhall come upon them; peace with ones ſelfe accompanied with warr againſt ones God is the worſt of warrs; <hi>ſoule-ſoothing is ſoule ſlaying, he that would be caer ſafe muſt be never ſe<g ref="char:EOLhyphen"/>cure;</hi> judgements that befall the ſelfe-flatterer come not more <hi>inovitably,</hi> then <hi>greviouſly.</hi> The ſame judge<g ref="char:EOLhyphen"/>ment that befalls them with others, makes them more miſerable the others, in regard they expect to be happi<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>judgment unthought of is judgment intollerable.</hi>
+               <note place="margin">Job. 21.13.</note> 
+               <hi>They ſpend their days in wealth, &amp; in a moment they goe down to the grave;</hi> a doleful mirth! <hi>better is that hel that makes
+<pb n="13" facs="tcp:113984:11"/>way for heaven, then that heaven that makes a way for hel,</hi> the ſelfe deluders happineſſe is a fooles Paradiſe: never was it known that they were quiet to eternity, that were not diſquieted in their ſinnes here. The hell upon earth is to be in the way to hell, and yet to think that the courſe is ſteer'd toward heaven.</p>
+            <p n="3">3. This judgment of a deep ſleepe comprehends the puniſhment of <hi>unactiveneſſe, unſerviceableneſſe, and un<g ref="char:EOLhyphen"/>profitableneſſe</hi> in the midſt of all opportunities and ex<g ref="char:EOLhyphen"/>igencies whatſoever, whether they be the particular exigencies of our owne ſoules, or of the Church of Chriſt. The worke is great, but there is no labourer; This ſpirituall ſleeper is a <hi>ſummer-ſluggard,</hi> a <hi>harveſt<g ref="char:EOLhyphen"/>ſleeper;</hi> he ſtirs not up himſelfe to lay <hi>hold upon God &amp; life:</hi> he ſeekes not the <hi>Kingdome of God and its righte<g ref="char:EOLhyphen"/>ouſneſſe:</hi> he <hi>ſtrives not to enter in to the ſtraight gate:</hi> he <hi>offers no violence to the Kingdome of heaven:</hi> he workes not out his ſalvation: he wreſtles not in prayer: he lives as if he had nothing to do in the world; heaven is not his buſineſſe: he is, but he lives not, as far from doing any worke in the very evening of his life, as hee was in the dawning of it; Lived he hath like a drone all his dayes, as if he had been borne to looke on: glorious opportu<g ref="char:EOLhyphen"/>nities are before him; every Sabbath, Sermon, Ordi<g ref="char:EOLhyphen"/>nance are full ſeaſons of grace, a rich prize: but he hath no heart, no hand; And for the Church of Chriſt be the ſtraits thereof never ſo great, the work never ſo abun<g ref="char:EOLhyphen"/>dant, its exigencies never ſo urgent, this <hi>ſpirituall ſlee<g ref="char:EOLhyphen"/>per</hi> takes his reſt, but takes no paines, <hi>he helpes not the Lord;</hi> may but he be warm in his own feathers, he re<g ref="char:EOLhyphen"/>gards not the dangers of the houſe, he is a meere <hi>mute</hi> and <hi>Cipher, a nullity in the world,</hi> a <hi>ſuperfluity upon the earth,</hi>
+               <note place="margin">Jer. <hi>13.</hi>
+               </note> 
+               <hi>Jeremiah's</hi> rotten girdle good for nothing, or <hi>like
+<pb n="14" facs="tcp:113984:12"/>the branches of a Vine,</hi>
+               <note place="margin">Ezek. 15.3.</note> which are but weake and unuſe<g ref="char:EOLhyphen"/>full, good to make no beams or rafters oft he prayeth not, he councelleth not, he contributeth not, he is in a <hi>deep ſleep,</hi> and hath <hi>loſt his hands;</hi> ſuch a kinde of ſleep as this, to a Saint, would be the greateſt unquietneſſe; <hi>ſerviceableneſſe is his heaven;</hi> this life would bee no<g ref="char:EOLhyphen"/>thing worth if he might not get Chriſt and (inſtrumen<g ref="char:EOLhyphen"/>tally) give him.</p>
+            <p n="4">4. This judgment of a deep ſleepe comprehendes the puniſhment of <hi>unwillingneſſe</hi> and lothneſſe to have any diſturbance &amp; <hi>ſtirring</hi> by any that come to awake. This ſluggard is in his warm down, or in his midnight repoſe, and hee loves not to be moleſted. Yet a little more folding of the arms likes him;<note place="margin">Inſanus contra med<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>mam.</note> This ſpiritual ſlee<g ref="char:EOLhyphen"/>per loves not any that ſtir him, he accounts them his greateſt enemies and tormenters;<note place="margin">Pars ſanitatis telle ſana<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i. <hi>Seneca.</hi>
+               </note> he that uſeth means may die: but he that <hi>refuſeth</hi> all helps of recovery muſt dye; what will become of thoſe that ſay to the Pro<g ref="char:EOLhyphen"/>phets <hi>propheſie</hi> not, that are mad againſt the medicine, <hi>that cannot endure ſound doctrine,</hi> that ſhut their eyes againſt the Sun, and ſtop their eare againſt the ſound of the word; thus it is with this ſpirituall ſleeper; he is angry with every one that makes a noiſe, that will not ſuffer him and his luſts to live together in quiet. Hee that counts the word a burthen here, ſhall feele ano<g ref="char:EOLhyphen"/>ther burthen hereafter.</p>
+            <p n="5">5. Laſtly, this judgement of a deep ſleep denoteth <hi>inſenſibleneſſe,</hi> regardleſneſſe under the threamings, noyſes, wounds, and all other adminiſtrations uſed by God to awaken him: what-ever God ſaith or doth the <hi>ſpirituall ſleeper</hi> layeth it not to heart, ſo as to get any good by it take it in theſe five particulars.</p>
+            <p n="1">1. He is inſenſible <hi>of danger,</hi> like a <hi>drunken man that
+<pb n="15" facs="tcp:113984:12"/>ſleepes on the top of a maſt,</hi> neare dangers in regard of <hi>execution,</hi> farre from them in regard of <hi>apprehenſion;</hi> he <hi>puts far from him the evill day,</hi> An awaked Chriſtian foreſees the danger, and provides accordingly <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ſlee<g ref="char:EOLhyphen"/>ping ſinner feares nothing, feeling only troubles him; and that too when 'tis too late.</p>
+            <p n="2">2. He is <hi>inſenſible</hi> of the loudeſt noyſes, ſevereſt de<g ref="char:EOLhyphen"/>nunciations; <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>line may be upon line, precept upon pre<g ref="char:EOLhyphen"/>cept,</hi> Miniſter after Miniſter,<note place="margin">Iſa 28.13.</note> and all doe but fatten his heart and deafen his eare; the moſt effectual warnings, the lifting up the voice like a Trumpet, the ſhrilleſt de<g ref="char:EOLhyphen"/>nunciations work not upon him; the <hi>Lyon roares, but be trembleth not.</hi>
+            </p>
+            <p n="3">3. He is <hi>inſenſible of being uncovered</hi> and ſtript of a<g ref="char:EOLhyphen"/>ny comforts and ſupplies; though God pull off his cloaths, take away friends, children, eſtates, health, plenty: though the water-pot and the ſpeare be taken from the bolſter be ſtirs not, like the hen which loſeth her chickens one by one by the devouring Kite; when one or 2 or 3. are ſnatcht away, ſhe ſtill continueth to pick up what lyeth before her.</p>
+            <p n="4">4. He is inſenſible of the ſtirrings and joggings that are given him in his ſleepe, the faithfull admonitions of friends. <hi>Rebuke a ſcorner,</hi> and he hates both rebukes and rebuker.<note place="margin">Prov. 29.1.</note> Though <hi>often reproved hee hardens his necks:</hi> he and his diſtemper are ſo nail'd together, that reprehenſions ſever them not.</p>
+            <p n="5">5. He is inſenſible of woundings, maimings, the very fetching out his blood.<note place="margin">Eſa 5.12. Jer. 5.3. Hoſ. 7.9. Eſa 1.5.</note> 
+               <hi>They regard not the workes of the Lord: they refuſe to receive correction when the hand of the Lord is lifted up, they will not ſee. Gray hairs are here &amp; there upon them and they know it not:</hi> though <hi>ſmitten, they revolt more and more. Adams</hi> rib was ta<g ref="char:EOLhyphen"/>ken
+<pb n="16" facs="tcp:113984:13"/>out of him and he felt it not. The ſtorms &amp; waves fight againſt <hi>Jonah,</hi> and he obſerves it not.</p>
+            <p>The ſpirituall ſleeper is inſenſible of judgements in three reſpects.</p>
+            <p n="1">1. <hi>Hee is inſenſible who wounds;</hi> he thinks not of the hand of God in the miſeries that befall him; hee onely lookes at man, and thinks not that 'tis God who gives him to <hi>robbers and ſpoylers;</hi> he lookes not upward as <hi>David</hi> when <hi>Shemei</hi> revil'd him, did; hee conſiders not that he hath <hi>negotium cum Deo,</hi> to doe with God when men hurt him: but all his ſtudy is how to avenge him<g ref="char:EOLhyphen"/>ſelfe upon, or reconcile himſelfe unto the inſtrument, who indeed was uſed by the hand of providence to do what was done againſt him; his endeavours in this re<g ref="char:EOLhyphen"/>ſpect beginning at the wrong end, for God hath a <hi>ne<g ref="char:EOLhyphen"/>gative voyce</hi> to all overtures of peace and friend-ſhip between man and man; the hand that cuts can onely cure; the God that wounds can only heale; any ſtru<g ref="char:EOLhyphen"/>cture of amity betweene man and man will ſoone fall that is not ſet upon the foundation of a peace with God.</p>
+            <p n="2">2. <hi>Hee is inſenſible why he is wounded:</hi> of the deſer<g ref="char:EOLhyphen"/>ving cauſe, <hi>ſinne:</hi> as he lookes not <hi>upward,</hi> ſo neither lookes he <hi>inward:</hi> he is not driven by what he feels, to obſerve what he doth, <hi>no man ſaith what have</hi> I done; he ſearcheth not his heart to finde out the <hi>Jonah</hi> when the <hi>ſtorm</hi> is riſen about him. He traceth not the ſin, <hi>the beaſt,</hi> by the <hi>veſtigium,</hi> the print of puniſhment that it hath left upon him: nor laboureth by the ſtreame to goe to the head from whence it iſſueth. Every thing ſhall be blamed ſooner then ſin; his <hi>careleſſe ſervants,</hi> his <hi>diſobedient childe,</hi> his <hi>cheating Chapman,</hi> his <hi>trea<g ref="char:EOLhyphen"/>cherous Commander:</hi> but here is not a word of ſinne all
+<pb n="17" facs="tcp:113984:13"/>this while. Nay rather then that ſhall be blamed, the fault ſhall be laid upon thoſe that are his greateſt friends, and haply moſt of all deſire his good. As 'its evident in the diſmall example of <hi>Saul</hi> who in all his affrightments flew upon innocent <hi>David,</hi> and never lookt into himſelfe, Nay, rather then ſinne ſhall bee blam'd, cryes out upon that which is not, as his hard hap, his fortune. &amp;c.</p>
+            <p n="3">3. <hi>Hee is inſenſible of the way to cure his wounds</hi> and the true way of winding himſelfe out of his miſeries. The people.<note place="margin">Hoſ. 7.10.</note> 
+               <hi>Hoſ.</hi> 7.10. In the time of their calamitie and declining, and when their <hi>gray haires were</hi> here and there upon them, returne not to the Lord their God, nor ſeeke him, <hi>for all this,</hi> and <hi>v.</hi> the 13. <hi>woe unto them for they have fled from me;</hi> they flye to <hi>Egypt</hi> and <hi>Aſſyria</hi> but they fly from God. who only can help &amp; v. 16. <hi>They return but not to the moſt High, they are like a deceitfull Bow;</hi> and the like complaint is that of <hi>Iſay,</hi>
+               <note place="margin">Iſ. 51.20.</note> 
+               <hi>that the people are like a wild Bull in a nett,</hi> that can ham<g ref="char:EOLhyphen"/>per and entangle it ſelfe more and more, but takes no courſe to winde it ſelfe out; very elegant alſo is that compariſon of <hi>Hoſea.</hi> chap. 13.13. where 'tis ſaid that <hi>E<g ref="char:EOLhyphen"/>phraim is an unwiſe Son,</hi>
+               <note place="margin">Hoſ. 13.13.</note> 
+               <hi>for hee ſhould not ſtay long in the place of breaking forth of Children,</hi> the ſcope is this. The Prophet compares <hi>the kingdome of Iſraell</hi> to a woman in travaile, in regard of 'its paines and diſtreſſes, and the inhabitants to the child in the womb of the Mo<g ref="char:EOLhyphen"/>ther, and to ſuch a fooliſh Child, which though the Mother bee in never ſuch torture, by reaſon of 'its con<g ref="char:EOLhyphen"/>tinuance in the womb, yet the child takes no care to get forth; but remaines there ſtill though to the killing of Mother and it ſelfe both; ſo the <hi>Iſraelites</hi> had ra<g ref="char:EOLhyphen"/>ther ſtifle themſelves in the womb of ſinne and pu<g ref="char:EOLhyphen"/>niſhment,
+<pb n="18" facs="tcp:113984:14"/>&amp; undoe the ſtate, then leave their ſin, &amp; ſave themſelves and the Kingdom their Mother; In the 5. <hi>ch.</hi> &amp;<hi>v.</hi> the 13. he compares them to a ſick wounded perſon that goeth to a wrong medicine for healing, where he ſaith <hi>that when</hi> Judah <hi>ſaw his ſickneſſe,</hi>
+               <note place="margin">Hoſ. 5.13,</note> 
+               <hi>and</hi> Ephraim <hi>his wound, they went to the</hi> Aſſyrian, <hi>and ſent to</hi> Jareb <hi>yet could he not cure them; &amp; ſo to a ſilly dove without heart,</hi>
+               <note place="margin">Hoſ. 7.12,</note> 
+               <hi>that flyeth to Egypt and</hi> Aſſyria <hi>for help. And yet</hi> ver. 13. <hi>They flye from God, (Though indeed there be no way to flye from God, but by flying to him,)</hi> they ſent to <hi>Jareb</hi> but not to God; they open their mouths to be fill'd with the winde but ſtop them when God offereth that which will ſatisfy them; A ſpirituall ſleeper uſeth e<g ref="char:EOLhyphen"/>very way but the right. If there bee a wrong hee will bee ſure to take it; hee is ſooner ready to deſtroy him<g ref="char:EOLhyphen"/>ſelfe then his ſin, and more enclin'd with an obſtinate heart to goe on to ruin, then by reviewing the greatneſs of his provocations, and the goodneſſe of him that is provoked; to melt into teares, to aſke pardon, to loath himſelfe and his luſts, and to turne heartily to the moſt high; This is the complaint of <hi>Iſaiah that the people re<g ref="char:EOLhyphen"/>turne not to him that ſmites them;</hi> diſmall is that denun<g ref="char:EOLhyphen"/>tiation of God,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evk. 27.39.</note> 
+               <hi>that after all their Famine and Warrs, and loſſes, and Captivities; they ſhould</hi> not withſtanding all theſe wounds, (they that are left) <hi>pine away in their iniquity.</hi> Notwithſtanding the deaths of thouſands before their eyes, their abode in their Enemies land the viſibleſt tokens of the diſpleaſure of an angry God, yet to <hi>pine</hi> away and ſwelter in ſin as if nothing could awake them, how dreadfull is it?</p>
+            <p>Ther's the firſt thing in the Text wherein a ſpiritu<g ref="char:EOLhyphen"/>all deep ſleep, appears to be ſo dreadfull a judgement, in reſpect of the nature and kinde of it, opened in
+<pb n="19" facs="tcp:113984:14"/>five particulars.</p>
+            <p>
+               <hi>The ſecond particular</hi> in the Text,<milestone type="tcpmilestone" unit="unspecified" n="2"/> whereby the great<g ref="char:EOLhyphen"/>neſſe of this judgement is ſet forth, is the meaſure of it, held out in a double expreſſion.</p>
+            <p n="1">1. Of <hi>the powring out of it.</hi>
+            </p>
+            <p n="2">2. <hi>Of the</hi> powring the <hi>Spirit of it.</hi>
+            </p>
+            <p n="1">1. Of powring it; and this notes that when this <hi>deep ſleep</hi> ſeizeth upon people as it did upon theſe in the Text, that it overwhelms them, it runs all over them, it is ſuch a <hi>dead palſey as</hi> ſtupifieth the whole body; that leaves no part free; like a City that is ſo begirt with an Enemy, and about which there is ſo ſtrait a ſeige that there is no going either in or out; So here the Miniſters of the Goſpell know not where to ſet upon, or how to endeavour entrance into theſe ſpiritually ſleeping ſin<g ref="char:EOLhyphen"/>ners; how difficult a thing is it to cure that patient who in every part of his body, ovtward and inward is diſtempered; when the whole body is <hi>totum pro vulne<g ref="char:EOLhyphen"/>re;</hi> All over one wound and malady as it were.</p>
+            <p n="2">2. <hi>The ſecond expreſſion</hi> that ſets out the meaſure of this <hi>deep ſleep,</hi> is <hi>the ſpirit</hi> of it; A word that proper<g ref="char:EOLhyphen"/>ly notes the power and the vehemency of this diſtem<g ref="char:EOLhyphen"/>per; As the <hi>ſpirit</hi> of a thing is the force and vigor and ſtrength of it, ſo here is denoted the efficacie and powerfullneſſe of this deep ſleep <hi>in</hi> theſe people and <hi>over</hi> them; now what a judgement is it for a man to bee under the power of ſinne, to bee in <hi>arctâ cuſtodiâ,</hi> cloſe priſoner to the ſoules greateſt enemy, to bee in the bond of <hi>iniquitie,</hi> to bee held in the Cords of his ſinne, to have the ſoule <hi>garriſon'd</hi> with thouſands of ſuch ſtrong men armed as the weakeſt of them is ſtronger then an armie of men; ſurely to bee under the power of the greateſt Tyrants breathing, is not a puniſhment
+<pb n="20" facs="tcp:113984:15"/>comparable to this; 'tis a power that none in the world can match, but onely the power of him that is alſo an Enemy to him that is a ſpirituall ſleeper. If it bee the <hi>power of God that keepes to ſalvation;</hi> the power of ſinne and Satan (if not overpowred) muſt needs keep to <hi>damnation;</hi> It is ſuch a power as reſiſteth all the means that come to reſcue the ſoule from it, and that ſo deeply ſeizeth upon the ſinner, that it makes him purely ſubdued, bowed down under it; and yet which is worſt of all, the nature of this power ſtands in mak<g ref="char:EOLhyphen"/>ing a man unwilling as well as unable to get from un<g ref="char:EOLhyphen"/>der it; hee being a very ſlave in every thing but onely in that which is common to all others that are in bon<g ref="char:EOLhyphen"/>dage,<note place="margin">2. Pet. 2.</note> namely to ſigh and groan under it.</p>
+            <p n="3">3.<milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>The third particular</hi> in the Text whereby the diſ<g ref="char:EOLhyphen"/>malneſs of this judgment <hi>of a deep ſleep is</hi> ſet out in the <hi>Object,</hi> the perſons upon whom 'tis powred, <hi>You,</hi> where wee may take notice of two things.</p>
+            <p n="1">1. <hi>The Partyes.</hi>
+            </p>
+            <p n="2">2. <hi>The part of theſe Partyes</hi> that the Prophet here intends to be under <hi>a deep ſleep.</hi>
+            </p>
+            <p n="1">1. The partyes <hi>you, you</hi> a people that are under all my <hi>awakning adminiſtrations;</hi> of words, and threat<g ref="char:EOLhyphen"/>nings, of judgements, and examples, <hi>You have I known of all the Nations of the Earth,</hi> with you have I taken pains more the with all the people in the world beſide, and for you to be in a deepe ſleep is a greater, both ſin, and ſhame, and puniſhment, then for others. None are ſuch approved try'd friends to luſt as they that conti<g ref="char:EOLhyphen"/>new in it under means of recovery, none ſo inexcuſa<g ref="char:EOLhyphen"/>ble for continuing in their ſpirituall ſlumber as they that have had helps to awaken them. 'Tis a ſhame for any to bee a ſleep but more for them that are in the
+<pb n="21" facs="tcp:113984:15"/>light, the ſun, and ſound of the word.</p>
+            <p>'Tis not ſo great a marvaile for others to be aſleep whom God never brought under thoſe helpes that might ſtir them up; but for thoſe that live in the <hi>day<g ref="char:EOLhyphen"/>time</hi> of the Goſpell, and are under the ſtirring Miniſtry of the Prophets to continue <hi>ſlumbring in ſin,</hi>
+               <note place="margin">1 Theſ. 5.6.</note> there can be no Apology; The Apoſtle makes this an argument that Chriſtians ſhould beware of this diſtemper of ſpiriruall ſloth. Let not us ſleep as <hi>doe others;</hi> q. d. 'tis enough for thoſe that are in the night of ſin and nature to ſleep, let not us. 'Twas the argument that the An<g ref="char:EOLhyphen"/>gell uſed to <hi>Jacob, let me goe, for the day breaketh:</hi>
+               <note place="margin">Gen. 32.26.</note> who<g ref="char:EOLhyphen"/>ſoever is not awaked by the light of the day, the Goſ<g ref="char:EOLhyphen"/>pell, ſhall be awaked by the heat of eternall flames.</p>
+            <p n="2">2. <hi>The ſecond thing is</hi> the <hi>part</hi> of theſe parties upon which this <hi>ſpirituall ſleepe</hi> ſeizeth; and that is intended by the Prophet to be the <hi>ſoule;</hi> The <hi>ſoule</hi> of a judgment is its ſeizing upon the <hi>ſoule: ſpirituall</hi> bleſſings are the greateſt, and <hi>ſpirituall</hi> judgements the diſmalleſt. There are three things whereby it appeares that the judgement of a deep ſleep is greatned by befalling the ſoule.</p>
+            <p n="1">1. The ſoule is the <hi>excellency</hi> of man; the worthieſt part: the body is a <hi>body of vileneſſe,</hi>
+               <note place="margin">Phil. 2.21. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> the ſoule a preci<g ref="char:EOLhyphen"/>ous ſoule; excellent every way, but as it is depraved with ſin. 'Tis the nobleſt part of man; noble in reſpect of its originall, 'tis heaven-borne; in reſpect of its fun<g ref="char:EOLhyphen"/>ctions, its endowments; If all be well with the ſoule, a man is happy, though the body be never ſo miſera<g ref="char:EOLhyphen"/>ble; If it goe ill with the ſoule, the man is wretched, let the body abound never ſo much with outwardbleſ<g ref="char:EOLhyphen"/>ſings.</p>
+            <p>When a mean conremptible man, and one of no ac<g ref="char:EOLhyphen"/>count
+<pb n="22" facs="tcp:113984:16"/>dyeth, it's never ſpoken of: but when a Prince or ſome great man dyeth, all lay it to heart; the ſoul is the Prince, the body is but the page, and therefore the body is not to be lamented, from which only the ſoul parteth: but the ſoule from which God himſelfe par<g ref="char:EOLhyphen"/>teth</p>
+            <p n="2">2. The <hi>diſtempers that befall the ſoule are hardeſt to remove;</hi> There's no herb in the garden, no receipt from the Phyſitian, no medicine in the ſhop, that can cure the ſoule; men are only parents of the body, and only Phyſitions of the body, he that <hi>made</hi> the ſoule can only <hi>mend</hi> it. The <hi>father of ſpirits,</hi> is the only <hi>Phyſitian of ſpirits;</hi> 'Tis omnipotent ſtrength that recovers ſin<g ref="char:EOLhyphen"/>ſicke ſouls: man can make them worſe, but its only a God that can make them better; Outward helpes can<g ref="char:EOLhyphen"/>not cure the inward man; The God of the heart can only reſtore <hi>the hidden man of the heart:</hi>
+               <note place="margin">1 Pet. 3.4</note> He that ſits in heaven muſt touch and teach the heart, otherwiſe it can never be reacht or taught.</p>
+            <p n="3">3. The <hi>diſtempers that befall the ſoule are moſt dead<g ref="char:EOLhyphen"/>ly,</hi> if they be not remedied. A ſcratch on the finger is a <hi>ſlight wound:</hi> but a wound that reacheth to the heart is alway dangerous if not dendly; whatſoever befals the body is but ſlight, and to be ſlighted in Compariſon of what annoyeth the ſoule. Soule curſes are the onely dreadfull ones. All calamities may be in mercie that befal the body, for they only part between us &amp; health wealth, and friends, &amp;c. but they which befall the ſoul, part us in ſome meaſure from him in whom all bleſſed<g ref="char:EOLhyphen"/>neſſe and true happineſſe is laid up.</p>
+            <p>If the ſoule liveth, the man dyes not: if the ſoule be dead in ſin the man is dead. The life of our lives, is the health of the ſoule: the death in death is the miſcarri<g ref="char:EOLhyphen"/>age
+<pb n="23" facs="tcp:113984:16"/>of the ſoule. If a man be not <hi>heartficke,</hi> though o<g ref="char:EOLhyphen"/>therwiſe much diſtempered 'tis not look't upon as dan<g ref="char:EOLhyphen"/>gerous; he that is not ſpiritually and ſoul and ſin-ſicke, is not ſick unto death; the ſickneſſes and diſtempers of the body, are but only ſuch in appearance, &amp; in a ſort opinionative, the diſeaſes of the ſoule are onely ſuch in reality. Spirituall comforts and miſeries are only ſuch: <hi>vera;</hi> temporall, whether Comforts or miſeries are but <hi>fallacia,</hi> ſeeing and deceiving; 'twas an excellent advice of Chriſt to his Diſciples: <hi>fear not him that can kill the bady, but feare him that can throw both body and ſoul in<g ref="char:EOLhyphen"/>to hell;</hi> Thus of the third reaſon, the object of this judg<g ref="char:EOLhyphen"/>ment, <hi>you.</hi>
+            </p>
+            <p n="4">4.<milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+               <hi>The fourth thing in the Text</hi> that makes the <hi>ſpi<g ref="char:EOLhyphen"/>rit of a deepe ſleepe</hi> ſo dreadfull a calamity, is the <hi>infli<g ref="char:EOLhyphen"/>cter of it,</hi> and the puniſher with it, and that is <hi>the Lord</hi> JEHOVAH; The Lord, whoſe puniſhments are alwayes either the ſoreſt or the ſweeteſt; if they better not thoſe whom they befall they ever hurt them: Now this is a puniſhment ever of hurt and diſtruction, not <hi>medicina</hi> but <hi>laniena,</hi> not the cutting of a chirur<g ref="char:EOLhyphen"/>gion or a friend; but of an Enemy and a deſtroyer, 'Tis a bleſſing of God to correct and love us, A great curſe for God to puniſh and leave us; nay ſo to puniſh as the very puniſhment is a leaving of us. The happineſſe of correction ſtands in teaching us, but, this puniſhment <hi>of a deep ſleep</hi> is the giving us up to <hi>unteachableneſſe.</hi>
+            </p>
+            <p>There are three things whereby it appeare that 'tis a great addition to this judgement, for God to inflict it.</p>
+            <p n="1">1. In regard 'tis that God who is <hi>the God of all mer<g ref="char:EOLhyphen"/>cy and the Father of all conſolation, the God that is the giver of every good and perfect gift;</hi> for <hi>him</hi> to puniſh
+<pb n="24" facs="tcp:113984:17"/>muſt needs be very diſmall; who ſhall pittie if he pun<g ref="char:EOLhyphen"/>niſh? if others puniſh and God pitty, ther's comfort yet and hope, but who ſhall bee our friend when the Lord will frown?</p>
+            <p>If mercy be our Enemy, who or what ſhall be our friend? the Lord that <hi>openeth the eares</hi> and <hi>eyes</hi> of his people, that <hi>teacheth</hi> them in his wayes, that makes them <hi>to profit,</hi>
+               <note place="margin">Pſal. 13.3.</note> that <hi>lightens their eyes leaſt they ſleep the ſleep of death;</hi> 'tis this God that puniſheth the obſtinate ſinner with this judgement, 'Twas a great aggravation of <hi>Eſaus</hi> puniſhment to mis of the bleſſing, becauſe his Father had bleſſed his Brother immediately before, <hi>bleſſe mee, even mee alſo o my Father, ſaith hee,</hi> for the ſame breath that bleſſeth a Saint to blaſt thee, for the ſame Sermon that melteth a humble ſoule into teares for ſinne to ſtupify thee in ſinne, for the ſame ſun that diſſolveth another, to harden thee, for the ſame gale that blowes on heaven-ward, to drive thee (occaſional<g ref="char:EOLhyphen"/>ly) hell-ward; here's a judgement indeed; <hi>If a man ſin againſt God who ſhall intreat for him;</hi>
+               <note place="margin">1 Sam 2, 23.</note> If <hi>God</hi> ſet him<g ref="char:EOLhyphen"/>ſelfe againſt a man who ſhall recover him</p>
+            <p n="2">2. <hi>A deep ſleep in reſpect of the inflicter</hi> is a great puni<g ref="char:EOLhyphen"/>ſhment becauſe inflicted by God in the deep'ſt of his diſ<g ref="char:EOLhyphen"/>pleaſure, as the laſt and the ſoreſt of his judgements in this life; he never doth it but when he is provok'd to the purpoſe, he inflicts it as a reckoning for all other faults that went before; when all means and helps of recovery are deſpiſed; when God is ſhewing mercy the <hi>laſt</hi> mer<g ref="char:EOLhyphen"/>cyes are the beſt, and the farther he goeth in mercy the ſweeter hee is, and ſo when he is puniſhing, the laſt puniſhments are the ſoreſt, and the further he goeth the bitterer he is; hee both loveth and leaveth <hi>gradually.</hi> This judgement of <hi>pining</hi> away in iniquity is the laſt
+<pb n="25" facs="tcp:113984:17"/>that God mentions after all thoſe diſmall ones there ſpoken of to befall the people. <hi>Levit.</hi> 26.39.<note place="margin">Lev. 26.39.</note> 'Tis the laſt judgement the loweſt ſtayer of hell upon Earth; 'tis even contiguous to (as I may ſay) &amp; bordering up<g ref="char:EOLhyphen"/>on hell it ſelfe. Hee that is filthy let him be filthy ſtill,<note place="margin">Rev. 22.11.</note> is the laſt judgment we read of (befalling in this life) in all the <hi>new Teſtament.</hi> A judgement inflicted upon thoſe that deſpiſe the offers of Chriſt and grace, <hi>ſo he gave them up,</hi> ſo? how and when? <hi>my people would not hearken to my voyce, and Iſrael would none of mee, ſo I gave</hi> them up unto their owne hearts;<note place="margin">1. Sam. 26.8.</note> when God is puniſhing with this judgement, hee ſaith, <hi>as Abiſhai when he offered to ſmite Saul, ſaid, I wil ſmite him to the Earth at once, and I will not ſmite him the ſecond time.</hi> God puniſheth with <hi>a deep ſleep</hi> as with an hell upon earth, as with that after which a man needs not bee ſmitten the ſecond time.</p>
+            <p n="3">3.<milestone type="tcpmilestone" unit="unspecified" n="3"/> 'Tis a puniſhment inflicted by God, which the more God inflicts it, the more hee loves to inflict: o<g ref="char:EOLhyphen"/>ther puniſhments may move God to pity, as the ſword and oppreſſion, &amp;c. But this being a ſinne as wel as puniſhment: the more it lyes upon a man, the more it muſt needs offend and provoke a God; and in this re<g ref="char:EOLhyphen"/>ſpect it is a <hi>diſtinguiſhing</hi> judgement, betweene the friends and foes of God; God loving his people the more hee corrects. Thus much of the firſt thing pro<g ref="char:EOLhyphen"/>pounded for the proſecution of the obſervation; <hi>viz.</hi> the ſhewing wherein it appeareth that the <hi>ſpirit of a ſleep</hi> is ſo great a judgment.</p>
+            <p>The ſecond followeth, <hi>viz.</hi> the Application of it; And this I ſhall endeavour in theſe two <hi>practicall</hi> In<g ref="char:EOLhyphen"/>ferences.</p>
+            <p>If a deep ſleep bee ſo great a judgement, and the
+<pb n="26" facs="tcp:113984:18"/>greatneſſe of it ſtands in the fore mentioned particu<g ref="char:EOLhyphen"/>lars. <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> There is then a heavy judgement, either fallen or falling upon <hi>us</hi> in <hi>England;</hi> upon you (my Lords) of the Parliament. From falling into it to the utmoſt, the loweſt degree, the Lord preſerve us but that we are fallen into it to a very diſmall degree, I am confi<g ref="char:EOLhyphen"/>dent may bee too clearely evidenced. The five fore mentioned particulars, comprehended in the very kinde or ſort of the judgement of <hi>a deep ſleep</hi> will be found in a deep meaſure to agree with us.</p>
+            <p n="1">1. Liableneſſe, expoſedneſſe to miſeries. <hi>Aſpirituall ſleeper</hi> lyeth naked to all invaders; is prepared to make no reſiſtance againſt his enemies, For us of this nation it cannot be denyed but that the terrible alarm's &amp; in<g ref="char:EOLhyphen"/>vaſions of judgements among us, ought long agoe to have rouzed us out of ſinfull ſloath, and have driven us to our Towers and ſtrong holds; I meane to have made us labour to make God our friend; to <hi>run to the name of the Lord,</hi> to cloſe up our ſelves in the wounds of Chriſt by faith, to make up our ruinous breaches and gaps by repentance; but have the approaches of judgements wrought upon us after this manner; or ra<g ref="char:EOLhyphen"/>ther lye we not ſtill as expoſed and naked to judgment, as when it was a thouſand times further off? Are wee not like the enthralled <hi>Iſraelites without a ſword or ſpeare</hi> in our land?<note place="margin">1. Sam. 13.22.</note> which of us labour to overcome God with his owne ſtrength of prayer, and faith and a holy life; or rather is there not a greater decay of theſe of late then ever? Doe we not live as if wee <hi>would invite judgements,</hi> and as if every one ſtudied <hi>to betray</hi> himſelfe to ruine? <hi>the power of godlineſſe decrea<g ref="char:EOLhyphen"/>ſeth as the power of judgements prevaile;</hi> our religion like our buildings is of <hi>a ſlighter frame</hi> then formerly,
+<pb n="27" facs="tcp:113984:18"/>holineſſe is diſputed into a meere ſpeculation, and practicall religion evaporated into a notion; where is hee among us that prayes more fervently and fre<g ref="char:EOLhyphen"/>quently then hee was wont, that walks more exactly, that layeth hold upon Chriſt more ſtrongly then here<g ref="char:EOLhyphen"/>tofore; never were there warrs that in ſo ſhort a time, made ſo many ſkilfull Souldiers for the body, and ſo few for the ſoule.</p>
+            <p n="2">2. For the ſecond thing I mention'd to bee in a <hi>deep ſleep; ſelf-ſoothing, and pleaſing</hi> ones ſelfe with fancies of felicity and dreams of happineſſe; wee in England are the lively picture of <hi>Ariel</hi> here in the con<g ref="char:EOLhyphen"/>text. <hi>v.</hi> 7. Hath not God emptyed us of our men our blood, and treaſure, and many renowned worthies, and yet doe we not dreame wee are full? how proud have we been with every ſucceſſe, how ſweetly doth the prophane worldling pleaſe himſelfe and neſtle in his feathers of Gold, his places, and ſtipends, and offices, and ſcoff at ſevereſt denunciations? was there ever known a people brought ſo low in their <hi>eſtate,</hi> to bee ſo high in their owne <hi>eſteeme?</hi> a people whoſe <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> did <hi>ſpit in their face with ſo much indignation,</hi> and yet a people that were ſo litle diſmayed or aſham'd as we? witneſſe that elfiſh attire, ſhamefull &amp; yet ſhame<g ref="char:EOLhyphen"/>leſſe nakedneſſe of necks and backs, thoſe ſin-blacke, hell-black, bewty-ſpotts (people would not account it a beauty to be borne with them) that ſwaggering prophanation of ſabboth, drinking and riotouſneſſe among us.</p>
+            <p n="3">3. <hi>For vnactiveneſſe, and idleneſſe;</hi> wee are in ſo deep a ſleep, that though every thing hath cryed out for our help and ſuccour and hand (there never being a time of ſo much employment) yet wee lye ſtill like
+<pb n="28" facs="tcp:113984:19"/>a company of ſworne ſlaves to ſleep. Have we not both Parliament and kingdom, been a company of <hi>harveſt ſleepers, ſummer ſluggards?</hi> what a faire ſummer of opportunityes hath God afforded to you (my Lords) for the working in his harveſt, and doing great things for his name, hee hath beſtowed opportu<g ref="char:EOLhyphen"/>nities ſo glorious, as I queſtion whether ever Parlia<g ref="char:EOLhyphen"/>ment had the like; and I feare that you ſhall never ſee the like againe. The Lord grant your harveſt weather bee not almoſt at an end. Oh that I could not ſay with <hi>Elijah</hi> there is (I feare at leaſt) <hi>a ſound of much raine;</hi>
+               <note place="margin">1 Kings. 18.41.</note> what might you not have done for God had you had hearts; you might (not to ſpeake of that comfort you might have afforded to dying <hi>Ireland,</hi> relief to poore Chriſtians, refreſhment to the Miniſters, eaſe to oppreſ<g ref="char:EOLhyphen"/>ſed ones, content to this faithfull City of <hi>London</hi>) you might by this time have ſet up <hi>the houſe of God in Eng<g ref="char:EOLhyphen"/>land,</hi> and have perfected reformation even to a beau<g ref="char:EOLhyphen"/>tifullneſſe; you might have made <hi>Antichriſt</hi> to have groan'd like a dying man, you might have made all the reformed Churches in Chriſtendome have bleſſed God for you; but alas for your <hi>ſloathfullneſſe!</hi> you are in ſtead of beautifying &amp; pertfecting reformation, but now a laying ſomething like the foundation of it; and this little that is laid, how doe Hereticks and Sectari<g ref="char:EOLhyphen"/>es, and Libertines, take the ſtones away from it daily? how active hath God been for us, how dul have we bin for him? what a poore, weake, imperfect, lame, go<g ref="char:EOLhyphen"/>vernment have we as yet, and what a while was it ere wee could get that litle wee have? wee have received mercy by <hi>ells</hi> (as I may ſay) but we have returned obe<g ref="char:EOLhyphen"/>dience by <hi>inches.</hi> Wee have been like narrow mouth'd Bottles, wee have given nothing to God without an
+<pb n="29" facs="tcp:113984:19"/>unkind and churliſh muttering and grudging; every thing hath cryed to you, but what helpe hath any re<g ref="char:EOLhyphen"/>ceived from you? poore oppreſſed ones cry for help, but they and their cauſes are neglected, the <hi>City</hi> cryes with <hi>petition</hi> after <hi>petition</hi> and how ſlowly is it relei<g ref="char:EOLhyphen"/>ed <hi>Ireland</hi> hath ſob'd it ſelfe to death almoſt and yet you hardly begin to ſtirr; Miniſters cry not with the language of their tongues, (for I think malice it ſelfe cannot ſpeake them immodeſt herein) but of their poverty, their oppreſſions, their almoſt ſtarv'd fami<g ref="char:EOLhyphen"/>lies in ſome places, theſe cry in your eares, and (in the Lords of hoſts too) for maintenance; theſe who procu<g ref="char:EOLhyphen"/>red and continued you money, arms, men, love, life in your foreſt ſtraits, that have ſav'd the Kingedome, theſe cry aloud to the Parliament, that Sectaries may not ruine them and theirs, that if you will not give them books you would give them bread, a lively-hood a ſubſiſtance; but alas poore Miniſters! whoſe eares, hearts, mouthes have been open'd to you and for you, finde yours ſtopt againſt them; there's no ſtirring for their reliefe. The <hi>Covenant</hi> cryes (God grant not a<g ref="char:EOLhyphen"/>gainſt you) for reformation of the Kingedome, the extirpation of hereſies ſchiſmes, prophaneſſe. &amp;c. and theſe impieties abound as if wee had taken <hi>a Cove<g ref="char:EOLhyphen"/>nant to maintaine</hi> them, and ſince it was taken theſe ſinnes which wee have covenanted againſt have more abounded then in the ſpace of ten times ſo many yeares before, our Covenant ſtirs us not, wee are un<g ref="char:EOLhyphen"/>actrve; wee have not done what wee might, the time may come that wee ſhall not doe what wee would, what if the Lord ſhould ſay to you, I abhor you and your ſervices; I'le do my worke without you.</p>
+            <p n="4">4. <hi>
+                  <g ref="char:V">Ʋ</g>nwillingneſſe to bee ſtirr'd and bee awak'd</hi> is a<g ref="char:EOLhyphen"/>another
+<pb n="30" facs="tcp:113984:20"/>puniſhment in a deep ſleep; And if this agree not to us, what doth? we oppoſe and openly diſlike thoſe who faithfully ſtir us from our ſloth; we are com<g ref="char:EOLhyphen"/>monly obſerved to love flatterers, and thoſe who may ſooth us though into deſtruction; painfull zealous Mi<g ref="char:EOLhyphen"/>niſters that will tell us of our ſins, are now look'd upon as buſie men; as thoſe that meddle with the State; they are bid to keep to their Text; as if that preaching which is a comming cloſe to your luſts, were a going away from our Texts: In the Biſhops times we were ſuffered to preach any thing, ſo we came not near their ſins, and this Prelacie is ſtill kept up among us. Hence it is that faithfull Miniſters are denyed their maintenance, are abuſed by the nick-names of Anti-chriſtian, are voy<g ref="char:EOLhyphen"/>ced enemies to the Parliament (are you and your luſts ſo neare that we cannot be enemies to one, but we muſt be enemies alſo to the other) that they have changed their principles, that they are turned Malignants whereas 'tis not the ſhore that moves, but the Boate<g ref="char:EOLhyphen"/>man: the Miniſters are ſtill the ſame men, and walk by the ſame rule; ſtill are for you, the Covenant, and a pure reformation. The Lord will one day judg who they are that continue faithfull and firme both to him and you, and who are unfaithfull to him, to us and your ſelves.</p>
+            <p n="5">5. <hi>Inſenſibleneſſe</hi> is the laſt and greateſt part of this puniſhment by <hi>a deepe ſleepe;</hi> and doth it not agree to us? <hi>Inſenſibleneſſe</hi> I ſay of dangers, noyſes, ſtirrings, uncoverings, woundings; dangers we put far from us, we feare nothing; wee live as if wee had made a cove<g ref="char:EOLhyphen"/>nant with death: we bleſſe our ſelves in our own hearts, expecting peace,<note place="margin">Dut. 29.19.</note> going on in our own wayes. Inſenſi<g ref="char:EOLhyphen"/>ble we are of noyſes and ſtirrings; how loud hath beene the voice of the word in our eares, but how deafe have
+<pb n="31" facs="tcp:113984:20"/>we been? Rare is the operation of the word in our con<g ref="char:EOLhyphen"/>gregation; the <hi>bellowes are burnt, the lead is conſumed,</hi>
+               <note place="margin">Ier. 6.29.</note> 
+               <hi>and yet the founder melteth in vaine;</hi> Miniſters are ſpent both in ſtrength and numbers, and yet our luſts in nei<g ref="char:EOLhyphen"/>ther; and for the Parliament 'tis a common obſervati<g ref="char:EOLhyphen"/>on that it is <hi>Sermon-proof;</hi> You command us to preach before you, oh that God would command you to pra<g ref="char:EOLhyphen"/>ctiſe before us. You enjoyn us to Print: but 'twill bee an unanſwerable dilemma another day, either the Ser<g ref="char:EOLhyphen"/>mons you cauſed to be printed were good or bad: if bad, why were they ſo much as printed: if good, why not more then printed, why not practiſed alſo. Wee are inſenſible of uncoverings and woundings; though God takes away from us our honours, eſtates, rents, friends, &amp;c. nay, hath wounded us in health, ſtrength, and even to the death of thouſands: yet are we inſenſi<g ref="char:EOLhyphen"/>ble <hi>from whom</hi> theſe miſeries come. We only treate &amp; deale with man, not with God; inſenſible why they come, we ſay <hi>not what have we done,</hi> our ſins trouble us not but they rather that will trouble us in our ſins, in<g ref="char:EOLhyphen"/>ſenſible how to remove them, to be rid of them; wee <hi>turne not to him that ſmites,</hi> witneſſe the generall inun<g ref="char:EOLhyphen"/>dation of all prophaneneſſe among us; never were God and wee further aſunder then ſince our miſeries and we were near one another.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>2</label> The ſecond inference ſhall be to direct us how to keep off and to ſhake off this unholy, unhappy diſtem<g ref="char:EOLhyphen"/>per of <hi>a deep ſleepe.</hi>
+            </p>
+            <p n="1">1. Embrace that Miniſtery that God is wont to make uſe of, for the rouzing up of ſlothfull ſinners.</p>
+            <p>God can a waken people without it, but ordinarily he will not; love that preaching moſt that loves moſt to excite thee; The word is both <hi>light</hi> and <hi>noiſe,</hi> both
+<pb n="32" facs="tcp:113984:21"/>which are wont to diſquiet ſleepers. Ther's not a grea<g ref="char:EOLhyphen"/>ter judgement to a people, then to have ſuch Preachers who labour to continue people in <hi>the ſleep of ſin.</hi> A ſi<g ref="char:EOLhyphen"/>lent Miniſters ſins againſt the very nature of his Functi<g ref="char:EOLhyphen"/>on: his work muſt be to ſtir you out of your ſins, though he knew that he ſhould ſtir ſome of you up to rage; he muſt ſpeake frequently and fervently; <hi>frequently,</hi> if one cry ſtir not, another may; hee knows not what ſea<g ref="char:EOLhyphen"/>ſon God may awaken you in, hee muſt continue call<g ref="char:EOLhyphen"/>ing and crying though you ſhould ſleepe the faſter un<g ref="char:EOLhyphen"/>der his noiſe: as long as there is life, there may be a<g ref="char:EOLhyphen"/>waking: <hi>fervently</hi> they muſt not be <hi>ſweet Muſitians</hi> and <hi>pleaſant ſingers</hi> to caſt you into this ſleep; nothing re<g ref="char:EOLhyphen"/>quireth ſo much fervour &amp; vehemency in emploiment as the ſpirituall welfare of ſoules; They muſt be ſons of thunder, not of muſick, holily impatient againſt your luſts. There are ſome doctrines that are pillows &amp; bol<g ref="char:EOLhyphen"/>ſters to a ſlumbring people; the doctrine of <hi>free-will, univerſall,</hi> whether <hi>grace</hi> or <hi>redemption,</hi> &amp;c. <hi>Antino<g ref="char:EOLhyphen"/>mianiſme</hi> in all its parts is <hi>a doctrine of a deep ſleep;</hi> 'Tis a dreadfull preſage in that theſe are the doctrines of our times; never was there a time wherein God ſpake more terribly, and Miniſters more mildly; Ther's now a wretched prejudice againſt Orthodoxe and faithfull preaching, that it is not a preaching of Chriſt; 'Tis moſt of all other diſcouraged and diſcountenanced. But we ſhould bee ſo farre from blaming the loudneſſe of the ſound of the word, that wee ſhould blame the depth of our own ſlumber, we ſhould take the part of the word againſt our luſt; and intreat God to ſpeake with, and louder then the Miniſter to make the word an awake<g ref="char:EOLhyphen"/>ning voice in the Miniſtrie, though it be a diſpleaſing voice; beſeech the Lord to cry in the eares of thy ſoule
+<pb n="33" facs="tcp:113984:21"/>with the voyce of his own ſpirit; to ſtirr thee in the Miniſtrie with his own arme, otherwiſe Miniſters ſhall rend their ſides, in ſteed of rouzing thy ſoule.</p>
+            <p n="2">2. <hi>Secondly labour for a fruitfull improvement of ſuf<g ref="char:EOLhyphen"/>ferings;</hi> upbraid thy <hi>ſin-inſenſible ſpirit</hi> with its deaf<g ref="char:EOLhyphen"/>neſſe, and take Gods part againſt thine owne repining ſoule; It's a ſingular mercy to be awakened though by ſevereſt adminiſtrations; <hi>God is never more angry thou when he is not angry;</hi> God never puniſheth ſo ſe<g ref="char:EOLhyphen"/>verely, as when hee puniſheth by ſparing, and lets thy ſoule have its fill in impunity; Intreat God to doe thy ſoule good, his owne way; and beware leſt any aflicti<g ref="char:EOLhyphen"/>on blow over without bettering thee, phyſick, if it works not, hurts and not heales; afflictions are awak<g ref="char:EOLhyphen"/>ning ſeaſons; to continue in ſleep under them is the loſſe of an excellent opportunity; afflictions ſanctified are like winds right ſet to blow to the port. Intreat God to ſet them right, though they be rough. If thou art ſo cloſe nayl'd to thy luſt that ſickneſſe, or diſgrace,<note place="margin">Iſa. 1.15.</note> or loſſes in thy eſtate &amp;c. cannot part it and thee, It's both a provocation to God to leave thee, and an in<g ref="char:EOLhyphen"/>couragement to Satan to keep thee</p>
+            <p n="3">3. <hi>Endeavour for a tender trembling heart,</hi> at the very beginning of the ſolicitations of ſin; ſin is of a ſtupefying nature; &amp; that which maketh way for eter<g ref="char:EOLhyphen"/>nall feeling, takes away ſpirituall; oppoſe and reſiſt thy drouſy heart when it firſt enclineth to ſinfull reſt; every ſinne neglected is a ſtep downward to a <hi>deep ſleep;</hi> That deluge here in the Text, is made up of ma<g ref="char:EOLhyphen"/>ny drops of ſinne; many knots tyed one upon ano<g ref="char:EOLhyphen"/>ther, will be hardly looſed, ſinnes <hi>repeated</hi> and not <hi>re<g ref="char:EOLhyphen"/>pented of,</hi>
+               <note place="margin">Prov. 5.27</note> binde downe the ſoule in inſenſibleneſſe and ſloth; every ſpot that falls upon a mans cloathes makes
+<pb n="34" facs="tcp:113984:22"/>him the more regardleſſe of them; and every ſinne ſuf<g ref="char:EOLhyphen"/>fered to defile the conſcience makes thee more care<g ref="char:EOLhyphen"/>leſſe of it; If inclination to ſin were reſiſted, there could bee no ſtupe-faction by ſin, that man who dares not wade to the ancles, nay that trembles ſo much as to touch the water, is in no danger of being over-whel<g ref="char:EOLhyphen"/>m'd with it; The modeſt beginnings of ſin will make way for immodeſt proceedings; the thickeſt Rock of jce that will beare a Cart, begins with a thin trembling cover that will not bear a pibble.</p>
+            <p n="4">4. <hi>Labour for faith in threatnings;</hi> reſtraine not thy belief onely to what God hath promiſed, extend it to what God hath denounced; This will make of a regardleſſe ſinner, a trembling melting Saint as wee ſee in the caſe of <hi>Joſiah,</hi>
+               <note place="margin">2. Kings. 22.11 13.</note> faith comprehends all truths paſt, preſent, &amp; to come in 'its vaſt boſom; &amp; overcomes all improbabilities that ſeem to keepe away judgments as wel as thoſe that ſeem to keep away mercies; faith ſeeth that wounded men ſhall bee able to overcome a ſinfull and threatned City,<note place="margin">Ier. 37.10.</note> and it dares not permitt the ſoule <hi>to ſleep in ſin,</hi> notwithſtanding wealth and friends, and honours, for it ſees that the truth of a threatning and the power of a threatner are above all theſe; why was not <hi>Noah</hi> drown'd in a deep ſleep of ſin and in a deluge of water with the old world, who lay ſecurely inſen<g ref="char:EOLhyphen"/>ſible till the floud awaked them? the ſpirit of God tells us,<note place="margin">Heb. 11.7.</note> that <hi>faith</hi> kept <hi>Noah</hi> both from <hi>ſleep</hi> and <hi>floud.</hi> Faith taught <hi>Noah</hi> to feare,<note place="margin">Subitò tollitur qui diu tolera<g ref="char:EOLhyphen"/>tur.</note> and fearing is the beſt way to prevent feeling; A beleever ſeeth that hee ſhall bee ſuddenly ſnatcht away that is long borne with, faith makes a man ſolicitous for a time and ſafe to eternity.<note place="margin">1 Tim. 4 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p n="5">5. <hi>Bee vigorous in the exerciſing thy ſelfe in godli<g ref="char:EOLhyphen"/>neſſe,</hi> ever be employed, never think or ſay thou haſt
+<pb n="35" facs="tcp:113984:22"/>done worke enough, think not that thy worke is end<g ref="char:EOLhyphen"/>ed if thy life be not, take heed of remiſſneſſe in Gods ſervice.<note place="margin">Rom. 12.11.</note> 
+               <hi>Bee diligent in</hi> the buſineſſe of heaven; let the tempter ever finde thee employed; the night comes and no man can worke but as long as the day of life and health, and Goſpell laſteth, no man muſt loyter; <hi>ever bee working out thy ſalvation;</hi> as ſleep cauſeth idle<g ref="char:EOLhyphen"/>neſſe, ſo idleneſſe cauſeth ſleep; ever bee ſpeaking of, ſpeaking to, meditating about God and his wayes; bee progreſſive in the way to heaven; take not up thy reſt in point of ceſſation from employment, leſt thy reſt take thee and overwhelme thee; ſtrive to attaine the higheſt pitch of religion, and yet bee ever working for heaven as if thou wert at the loweſt.</p>
+            <p n="6">6. <hi>Be moderate in following the employments, &amp; en<g ref="char:EOLhyphen"/>joying the Comforts</hi> of this life; take heed leſt theſe va<g ref="char:EOLhyphen"/>pours over-whelm thee; Satan lyeth in ambuſh behind our lawfull comforts; and in the ſecureſt enjoyments ſeizeth upon the ſoule. Chriſt was once loſt at a feaſt, and in abundance 'tis hard not to neglect him ſtill.</p>
+            <p>Proſperity (never that I could yet heare of) awa<g ref="char:EOLhyphen"/>ked any ſoule out of ſin: many have been caſt into the ſleep of ſinne by it. <hi>'Tis as hard to be rich and watch full, as 'tis to be poore and contented;</hi>
+               <note place="margin">1. Pet. 5.8.</note> when God remembers us moſt, wee remember him leaſt. Sobriety and vigi<g ref="char:EOLhyphen"/>lancy are enjoyned together. <hi>Be ſober and vigilant.</hi> Let the things of this life be thy <hi>ſolatia</hi> not <hi>negotia:</hi> thy re<g ref="char:EOLhyphen"/>freſhments in thy pilgrimage not thy great employ<g ref="char:EOLhyphen"/>ments; love them as ever about to leave them: uſe them not as the things for w<hi rend="sup">ch</hi> thou doſt live, but as the things without which in this eſtate thou canſt not live. Pleaſe not thy ſelfe in any thing wherein thou doſt not ſee thy God; Let his ſmile in &amp; his glory by every gift on<g ref="char:EOLhyphen"/>ly
+<pb n="36" facs="tcp:113984:23"/>comfort thee. Delight in nothing upon earth for it's ſelfe. Perſons that are inclin'd to be groſſe in their bo<g ref="char:EOLhyphen"/>dy muſt uſe much exerciſe: and they who have abun<g ref="char:EOLhyphen"/>dance in the world, ſhould take pains with their hearts, leſt while they get the world they looſe their God, and pleaſe themſelves in their ſin; pleaſe not your ſelves in the ſenſuall uſing of the Creatures, but in the ſpirituall enjoyment of the Creator; Bee not taken with what thou haſt in gift, but what thou haſt in love; not with with anything the Lord gives thee, unleſs he gives him<g ref="char:EOLhyphen"/>ſelf it. So much for the ſecond practicall inference, <hi>viz.</hi> of direction, and ſo for the whole.</p>
+            <p>That which followed, in the preaching of this Ser<g ref="char:EOLhyphen"/>mon; in regard it onely conceirned their Lordſhips is ſet down in the Epiſtle to them.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113984:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
